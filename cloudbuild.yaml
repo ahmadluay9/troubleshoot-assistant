@@ -51,7 +51,7 @@ steps:
 # Specify machine type for Cloud Build
 options:
   machineType: 'E2_MEDIUM'
-  logging: NONE
+  logging: CLOUD_LOGGING_ONLY
 
 # Define images to be pushed to Artifact Registry
 images:
