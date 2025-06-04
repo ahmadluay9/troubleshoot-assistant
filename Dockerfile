@@ -1,19 +1,44 @@
-# Gunakan official Python runtime sebagai base image
-FROM python:3.10-slim
+# --- Base Image ---
+# Use an official Python runtime as a parent image.
+# The 'slim' version is a good balance of size and functionality.
+FROM python:3.11-slim
 
-# Tetapkan working directory di dalam container
+# --- Environment Variables ---
+# Prevents Python from writing .pyc files to disk
+ENV PYTHONDONTWRITEBYTECODE 1
+# Prevents Python from buffering stdout and stderr
+ENV PYTHONUNBUFFERED 1
+# Set the container port. 8080 is a common default for cloud services like Cloud Run.
+ENV PORT 8080
+
+# --- Working Directory ---
+# Set the working directory inside the container.
 WORKDIR /app
 
-# Salin semua isi direktori proyek ke dalam container di /app
-COPY . /app
+# --- Install Dependencies ---
+# Copy the requirements file first to leverage Docker's layer caching.
+# This layer is only rebuilt if requirements.txt changes.
+COPY requirements.txt .
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
-# Install semua package yang dibutuhkan dari requirements.txt
-RUN pip install --no-cache-dir -r requirements.txt
+# --- Copy Application Code ---
+# Copy the rest of your application's code into the working directory.
+COPY . .
 
-# Buat port 8080 (atau PORT dari environment variable) dapat diakses dari luar container
-# Cloud Run secara default mengharapkan aplikasi listen pada port yang didefinisikan oleh env var PORT, defaultnya 8080
+# --- Create Runtime Directories ---
+# Create directories for logs and sessions so the application has write permissions.
+RUN mkdir -p /app/app_logs /app/chat_sessions && \
+    chown -R www-data:www-data /app/app_logs /app/chat_sessions
+# Switch to a non-root user for better security
+USER www-data
+
+# --- Expose Port ---
+# Expose the port the app will run on.
 EXPOSE 8080
 
-# Jalankan app.py menggunakan Gunicorn ketika container dijalankan
-# Gunicorn adalah WSGI HTTP Server yang production-ready
-CMD ["gunicorn", "--bind", "0.0.0.0:$PORT", "app:app"]
+# --- Run Command ---
+# Use Gunicorn, a production-grade WSGI server, to run the application.
+# The '--bind 0.0.0.0:$PORT' command tells the server to listen on all network interfaces
+# on the port specified by the PORT environment variable.
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app"]

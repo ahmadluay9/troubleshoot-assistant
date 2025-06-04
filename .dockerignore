@@ -1,10 +1,17 @@
-# .dockerignore
-.venv
-__pycache__
-*.pyc
-*.pyo
-*.pyd
-.env
-.git
+# Git and IDE files
+.git/
 .gitignore
-app_logs/
+.vscode/
+__pycache__/
+
+# Environment files - Do NOT include secrets in the image
+.env
+*.env.*
+
+# Local log and session files
+/app_logs/
+/chat_sessions/
+
+# Docker files
+Dockerfile
+.dockerignore
