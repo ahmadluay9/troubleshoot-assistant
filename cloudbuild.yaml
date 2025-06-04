@@ -50,7 +50,7 @@ steps:
 
 # Specify machine type for Cloud Build
 options:
-  machineType: 'E2_STANDARD_2'
+  machineType: 'E2_STANDARD'
 
 # Define images to be pushed to Artifact Registry
 images:
