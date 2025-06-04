@@ -1,0 +1,22 @@
+{
+    "id": "d1179674-1e6d-4598-8b04-b6c00d092ebe",
+    "title": "Dimana terjadi  insiden cacat pengelasan?",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Dimana terjadi  insiden cacat pengelasan?"
+        },
+        {
+            "role": "bot",
+            "content": "Berikut adalah informasi mengenai lokasi terjadinya insiden cacat pengelasan, berdasarkan laporan yang tersedia:\n\n| Kategori Investigasi | Ringkasan dari Laporan Relevan (Nomor Laporan) |\n| :--- | :--- |\n| **Lokasi Kejadian** | **2025-SBY-W01:** PT Mobilindo Prima, Plant Surabaya, Jl. Industri Rungkut No. 88, Surabaya, Indonesia[cite: 1]. Lini Fabrikasi Sasis, Stasiun Pengelasan Robotik #2 (RW-02)[cite: 1]. |\n\n**Rekomendasi Investigasi Awal:**\n\n*   Periksa apakah ada laporan lain terkait cacat pengelasan di lokasi yang sama atau di lokasi lain di PT Mobilindo Prima.\n*   Telusuri lebih lanjut mengenai Stasiun Pengelasan Robotik #2 (RW-02) untuk memahami proses dan potensi risiko yang ada.\n"
+        },
+        {
+            "role": "user",
+            "content": "Berapa biaya dampak dari insiden itu ?"
+        },
+        {
+            "role": "bot",
+            "content": "Tentu, berikut adalah biaya dampak dari insiden yang terdapat pada laporan:\n\n*   **Kegagalan Pemasangan Komponen Airbag Sisi Pengemudi** (Laporan 2025-06-A): Rp 102.500.000 [cite: 3]\n*   **Cacat Pengecatan (Bintik & Mengelupas) pada Panel Pintu Samping** (Laporan BC2025024): Rp 82.500.000 [cite: 5]\n*   **Kerusakan Unit Layar Sentuh Pusat (Head Unit)** (Laporan 2025-Q2-E03): Rp 65.000.000 [cite: 1]\n*   **Kebocoran minyak rem dari sambungan (fitting) antara selang rem fleksibel dan kaliper rem belakang kanan pada kendaraan model Pikap-Kuat** (Laporan 2025-SBY-B02): Rp 100.500.000 [cite: 4]\n*   **Cacat Pengelasan (Retak Mikro) pada Sasis** (Laporan 2025-SBY-W01): Rp 500.000.000 [cite: 2]"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "ca40f6ae-ec8d-4a5d-aca1-893ecb15e2be",
+    "title": "Dimana terjadi insiden pengelupasan cat?",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Dimana terjadi insiden pengelupasan cat?"
+        },
+        {
+            "role": "bot",
+            "content": "Berikut adalah informasi mengenai insiden pengelupasan cat berdasarkan laporan yang tersedia:\n\n| Kategori Investigasi | Ringkasan dari Laporan Relevan (Nomor Laporan) |\n| :--- | :--- |\n| **Deskripsi Masalah** | **2025-Q2-P01:** Ditemukan cacat cat yang parah pada batch panel pintu MPV-Prestige. Cacat utama adalah *pinholes* dan adhesi cat dasar yang buruk, yang menyebabkan pengelupasan \\`[cite: 1]\\`. |\n| **Lokasi Kejadian** | **2025-Q2-P01:** PT Mobilindo Prima, Plant Karawang, Lini Pengecatan (Paint Shop), Area Persiapan Permukaan (Surface Treatment), dan Booth Pengecatan Primer \\`[cite: 1]\\`. |\n| **Akar Masalah Teridentifikasi** | **2025-Q2-P01:** Kontaminasi di jalur pasokan udara untuk *spray gun* di *booth* pengecatan primer \\`[cite: 1]\\`. |\n| **Penyebab Langsung** | **2025-Q2-P01:** Partikel minyak dan uap air dalam jumlah kecil ikut terbawa dalam udara bertekanan yang digunakan untuk menyemprotkan cat \\`[cite: 1]\\`. Kontaminasi ini menyebabkan cat tidak dapat menempel sempurna pada permukaan panel logam \\`[cite: 1]\\`. |\n| **Faktor Pendukung** | **2025-Q2-P01:** Operator di area persiapan permukaan tidak melaporkan adanya sisa residu tipis pada panel setelah proses pembersihan \\`[cite: 1]\\`. Kurangnya standar visual yang jelas untuk validasi kebersihan permukaan sebelum masuk ke *booth* cat \\`[cite: 1]\\`. Proses audit internal juga gagal mendeteksi bahwa *checklist* penggantian filter pasca-pemeliharaan tidak ditandatangani oleh supervisor pemeliharaan \\`[cite: 1]\\`. |\n\n**Rekomendasi Investigasi Awal:**\n\n*   Mengapa operator di area persiapan permukaan tidak melaporkan adanya sisa residu tipis pada panel? Apakah ada pelatihan khusus mengenai identifikasi kontaminasi pada permukaan panel?\n*   Mengapa *checklist* penggantian filter pasca-pemeliharaan tidak ditandatangani oleh supervisor pemeliharaan? Apakah ada audit berkala terhadap proses pemeliharaan untuk memastikan kepatuhan terhadap prosedur?"
+        },
+        {
+            "role": "user",
+            "content": "Berapa biaya dampak dari insiden itu ?"
+        },
+        {
+            "role": "bot",
+            "content": "Untuk memberikan jawaban yang akurat, saya memerlukan informasi lebih lanjut mengenai insiden mana yang Anda maksud. Bisakah Anda memberikan detail tambahan, seperti:\n\n*   Nomor laporan insiden (misalnya, 2025-SBY-B02)\n*   Deskripsi singkat insiden (misalnya, \"Kebocoran Minyak Rem\")\n*   Lokasi pabrik (misalnya, Plant Surabaya atau Plant Karawang)\n\nDengan informasi ini, saya dapat mencari biaya dampak yang relevan dari laporan yang tersedia."
+        },
+        {
+            "role": "user",
+            "content": "Berapa total actual impct cost dari insiden itu ?"
+        },
+        {
+            "role": "bot",
+            "content": "Untuk memberikan jawaban yang akurat, saya memerlukan informasi lebih lanjut mengenai insiden mana yang Anda maksud. Bisakah Anda memberikan nomor laporan atau deskripsi singkat mengenai insiden tersebut? Dengan begitu, saya dapat mencari total biaya dampak aktual (actual impact cost) yang tepat dari laporan yang tersedia.\n"
+        }
+    ]
+}

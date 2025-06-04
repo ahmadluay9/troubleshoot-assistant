@@ -1,0 +1,14 @@
+{
+    "id": "e9f0a477-d10a-467a-bd2a-19a2ec7441c7",
+    "title": "Halo",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Halo"
+        },
+        {
+            "role": "bot",
+            "content": "Maaf, terjadi kesalahan saat memproses permintaan Anda ke Gemini: 1 validation error for _GenerateContentParameters\nmodel\n  Input should be a valid string [type=string_type, input_value=('gemini-2.5-flash-preview-05-20',), input_type=tuple]\n    For further information visit https://errors.pydantic.dev/2.10/v/string_type"
+        }
+    ]
+}

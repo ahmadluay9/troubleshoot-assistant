@@ -1,0 +1,22 @@
+{
+    "id": "553d6ddf-71a7-4578-850e-57dd204aab46",
+    "title": "Insiden apa yang terjadi di surabaya ?",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Insiden apa yang terjadi di surabaya ?"
+        },
+        {
+            "role": "bot",
+            "content": "Berikut adalah tabel yang berisi informasi mengenai insiden yang terjadi di Plant Surabaya berdasarkan laporan yang tersedia.\n\n| Kategori Investigasi | Ringkasan dari Laporan Relevan (Nomor Laporan) |\n| :--- | :--- |\n| **Deskripsi Masalah** | **2025-SBY-B02:** Ditemukan adanya kebocoran minyak rem dari sambungan (fitting) antara selang rem fleksibel dan kaliper rem belakang kanan pada kendaraan model Pikap-Kuat[cite: 1].\\<br\\>**2025-SBY-W01:** Ditemukan adanya retak mikro (micro-cracks) pada area sambungan las utama di sasis (chassis) kendaraan model Pikap-Kuat selama pengujian ultrasonik[cite: 3]. |\n| **Lokasi Kejadian** | **2025-SBY-B02:** Lini Perakitan Sasis, Stasiun 7 (Pemasangan Roda dan Sistem Rem)[cite: 3].\\<br\\>**2025-SBY-W01:** Lini Fabrikasi Sasis, Stasiun Pengelasan Robotik \\#2 (RW-02)[cite: 3].\\<br\\>Keduanya berlokasi di PT Mobilindo Prima, Plant Surabaya[cite: 3, 3]. |\n| **Akar Masalah Teridentifikasi** | **2025-SBY-B02:** Kombinasi Faktor Manusia & Kegagalan Prosedur. Alat pengencang torsi jatuh dan tidak dilaporkan oleh operator karena takut sanksi[cite: 14, 30]. Prosedur awal shift juga tidak mengharuskan verifikasi akurasi torsi alat[cite: 15].\\<br\\>**2025-SBY-W01:** Masalah Alat & Prosedur. Parameter pada robot pengelasan diubah oleh teknisi yang kurang berpengalaman untuk mengejar target[cite: 43, 44]. Tidak ada prosedur Manajemen Perubahan (MOC) yang mewajibkan persetujuan insinyur untuk perubahan kritis[cite: 45]. |\n\n**Rekomendasi Investigasi Awal:**\n\n*   Untuk masalah kebocoran rem (2025-SBY-B02), mengapa *torque tester* yang sudah tersedia di stasiun kerja tidak dimasukkan dalam prosedur verifikasi harian sejak awal? Lakukan audit pada prosedur sejenis di stasiun kerja kritis lainnya.\n*   Untuk masalah retak las (2025-SBY-W01), apakah ada korelasi antara teknisi yang mengubah parameter dengan catatan pelatihannya? Tinjau matriks kompetensi untuk semua teknisi robotik untuk mengidentifikasi kesenjangan pelatihan lainnya.\n"
+        },
+        {
+            "role": "user",
+            "content": "Berapa total biaya dampak kerusakan dari insiden yang tejadi ?"
+        },
+        {
+            "role": "bot",
+            "content": "Tentu, berikut adalah total biaya dampak kerusakan dari insiden yang terjadi, berdasarkan laporan yang tersedia:\n\n*   **Cacat Pengecatan (Bintik & Mengelupas) pada Panel Pintu Samping** (Laporan BC2025024): Rp 82.500.000 [cite: 5]\n*   **Kerusakan Unit Layar Sentuh Pusat (Head Unit)** (Laporan 2025-Q2-E03): Rp 65.000.000 [cite: 2]\n*   **Kegagalan Pemasangan Komponen Airbag Sisi Pengemudi** (Laporan 2025-06 - A): Rp 102.500.000 [cite: 3]\n*   **Kebocoran Minyak Rem** (Laporan 2025-SBY-B02): Rp 100.500.000 [cite: 4]\n*   **Cacat Pengelasan (Retak Mikro) pada Sasis** (Laporan 2025-SBY-W01): Rp 500.000.000 [cite: 1]\n\n**Ringkasan Biaya per Pabrik:**\n\n*   **Plant Karawang:** Rp 250.000.000\n*   **Plant Surabaya:** Rp 600.500.000\n"
+        }
+    ]
+}

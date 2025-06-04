@@ -1,0 +1,38 @@
+{
+    "id": "cbe08c83-3b63-48fb-8d09-296a0f60f552",
+    "title": "Halo",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Halo"
+        },
+        {
+            "role": "bot",
+            "content": "Halo! Ada yang bisa saya bantu?"
+        },
+        {
+            "role": "user",
+            "content": "Dimana terjadi insiden pengelupasan cat ?"
+        },
+        {
+            "role": "bot",
+            "content": "Berdasarkan laporan yang tersedia, insiden pengelupasan cat terjadi di:\n\n*   **PT Mobilindo Prima, Plant Karawang**[cite: 1], di Lini Pengecatan (Paint Shop), Area Persiapan Permukaan (Surface Treatment), dan Booth Pengecatan Primer[cite: 1].\n"
+        },
+        {
+            "role": "user",
+            "content": "Berapa dampak biaya yang terjadi dari kerusakan itu >?"
+        },
+        {
+            "role": "bot",
+            "content": "Untuk memberikan jawaban yang akurat, saya memerlukan informasi lebih spesifik mengenai kerusakan yang Anda maksud. Mohon berikan detail berikut:\n\n*   **Jenis Kerusakan:** Kerusakan apa yang Anda maksud? (Misalnya, kerusakan alat, cacat pengelasan, masalah head unit, dll.)\n*   **Lokasi:** Di pabrik mana kerusakan itu terjadi? (Misalnya, Surabaya, Karawang)\n*   **Nomor Laporan (Jika Ada):** Jika Anda memiliki nomor laporan terkait, itu akan sangat membantu.\n\nSetelah Anda memberikan informasi ini, saya dapat mencari laporan yang relevan dan memberikan rincian dampak biaya yang sesuai."
+        },
+        {
+            "role": "user",
+            "content": "]Berapa dampak biaya yang terjadi dari insiden itu ?"
+        },
+        {
+            "role": "bot",
+            "content": "Untuk memberikan jawaban yang akurat, saya memerlukan laporan-laporan yang Anda maksud. Mohon berikan laporan-laporan tersebut agar saya dapat menganalisis dan memberikan informasi mengenai dampak biaya dari insiden-insiden yang terjadi.\n"
+        }
+    ]
+}

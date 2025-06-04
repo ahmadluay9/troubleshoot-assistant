@@ -1,0 +1,22 @@
+{
+    "id": "a6ef0939-f9bd-4b04-ad13-32c4dbcb4f63",
+    "title": "Di plant mana terjadi insiden kerusakan head unit ",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Di plant mana terjadi insiden kerusakan head unit ?"
+        },
+        {
+            "role": "bot",
+            "content": "Maaf, berdasarkan laporan yang saya miliki, tidak ada insiden kerusakan *head unit* yang tercatat. Saya hanya dapat memberikan informasi yang secara eksklusif ada dalam laporan yang disediakan."
+        },
+        {
+            "role": "user",
+            "content": "Kerusakan apa yang terjadi ?"
+        },
+        {
+            "role": "bot",
+            "content": "Mohon maaf, saya membutuhkan laporan yang ingin Anda analisis terlebih dahulu untuk dapat menjawab pertanyaan Anda.\n\nSilakan berikan laporan kerusakan yang ingin saya tinjau, dan saya akan merangkum informasinya untuk Anda."
+        }
+    ]
+}

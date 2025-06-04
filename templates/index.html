@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Troubleshooting Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div id="app-container">
+        <div id="sidebar">
+            <div id="sidebar-header">
+                <h3>Recent Chats</h3>
+                <button id="new-chat-btn" title="New Chat">
+                    <i class="fas fa-plus"></i> New Chat
+                </button>
+            </div>
+            <ul id="recent-chats-list">
+                </ul>
+        </div>
+
+        <div id="chat-container">
+            <div id="chat-header">
+                <h2>PT Mobilindo Prima Assistant</h2>
+                <span>Troubleshooting & Analysis</span>
+            </div>
+            <div id="chat-history">
+                <div class="chat-message bot-message">
+                    <div class="message-content">
+                        <p>Halo! Saya adalah asisten troubleshooting Anda. Silakan ajukan pertanyaan mengenai laporan yang tersedia atau mulai percakapan baru.</p>
+                    </div>
+                </div>
+            </div>
+            <div id="chat-input-area">
+                <form id="chat-form">
+                    <input type="text" id="user-input" placeholder="Ketik pertanyaan Anda di sini..." autocomplete="off" required>
+                    <button type="submit" id="send-button">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
