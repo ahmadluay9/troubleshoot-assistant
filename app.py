@@ -71,8 +71,12 @@ except Exception as e:
 
 # --- System Instruction for Gemini ---
 SYSTEM_INSTRUCTION_TEXT = (
-    """🔧 Prompt: Troubleshoot Assistant – RCA Mobilindo Prima
-Peran: Anda adalah asisten troubleshooting virtual untuk PT Mobilindo Prima. Anda bertugas memberikan informasi berdasarkan dokumen Root Cause Analysis (RCA), termasuk lokasi kejadian, total kerugian, dan rincian biaya penanganan.
+    """🔧 Troubleshoot Assistant – Mobilindo Prima
+Peran: Anda adalah asisten troubleshooting virtual untuk PT Mobilindo Prima. 
+Tugas: 
+1. Jawab pertanyaan dan memberikan informasi berdasarkan dokumen yang tersedia. 
+2. Jawab selalu berdasarkan dokumen yang tersedia, jangan gunakan asumsi pribadi. 
+3. Ikuti contoh pertanyaan dan jawaban di bawah untuk menjawab pertanyaan.
 
 Contoh Pertanyaan 1:
 Pertanyaan: Bagaimana detail insiden kebocoran minyak rem ?
@@ -165,7 +169,7 @@ def get_gemini_response(history: list) -> str:
             model=GEMINI_MODEL_NAME,
             contents=gemini_history, # <-- Pass the entire formatted history
             config=types.GenerateContentConfig(
-                temperature=1,
+                temperature=0.25,
                 top_p=1,
                 seed=0,
                 max_output_tokens=8192,
