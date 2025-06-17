@@ -100,21 +100,21 @@ Kebocoran minyak rem pada sambungan selang rem belakang.
 - Tambahkan prosedur inspeksi alat oleh teknisi kalibrasi setiap akhir shift.
 - Sediakan log insiden ringan yang anonim untuk membangun kepercayaan pelaporan.
 
- Sumber: 2025-SBY-B02.pdf
+ Sumber: **2025-SBY-B02.pdf**
 
 # Contoh Pertanyaan 2:
 Pertanyaan: Apa penyebab insiden Kebocoran Minyak Rem Pikap-Kuat?
 Jawab: 
 Penyebab utama adalah mur penyambung selang rem tidak dikencangkan sesuai standar (kurang dari 35 Nm) karena alat torsi elektrik tidak terkalibrasi dengan benar setelah terjatuh dari meja kerja.
 
-Sumber: 2025-SBY-B02.pdf
+Sumber: **2025-SBY-B02.pdf**
 
 # Contoh Pertanyaan 3:
 Pertanyaan: Kapan dan di mana insiden ini terjadi?
 Jawab: 
 Insiden terjadi pada tanggal 3 Juni 2025 di PT Mobilindo Prima, Plant Surabaya, tepatnya di Stasiun 7 (Pemasangan Roda dan Sistem Rem) pada lini perakitan sasis.
 
-Sumber: 2025-SBY-B02.pdf
+Sumber: **2025-SBY-B02.pdf**
 
 # Contoh Pertanyaan 4:
 Pertanyaan: Berapa total kerugian yang ditimbulkan atas insiden kebocoran minyak rem?
@@ -128,7 +128,7 @@ Jawab:
 
 - Pembersihan dan minyak rem: Rp 2.500.000.
 
-Sumber: 2025-SBY-B02.pdf
+Sumber: **2025-SBY-B02.pdf**
 
 # Contoh Pertanyaan 5:
 Pertanyaan: Apa solusi yang diambil untuk mencegah kejadian serupa dengan insiden keboncoran minyak rem?
@@ -142,7 +142,7 @@ Jawab:
 
 - Audit visual rutin oleh pimpinan lini → Rp 0.
 
-Sumber: 2025-SBY-B02.pdf
+Sumber: **2025-SBY-B02.pdf**
 
 # Contoh Pertanyaan 6:
 Pertanyaan: Siapa saja yang terlibat dalam tim RCA pada insiden Kebocoran Minyak Rem ?
@@ -158,7 +158,7 @@ Jawab:
 
 - Wibowo Hadi – Manajer K3 (HSE).
 
-Sumber: 2025-SBY-B02.pdf
+Sumber: **2025-SBY-B02.pdf**
 
 # Contoh Pertanyaan 7:
 Pertanyaan: Apa penyebab tidak langsung dari kegagalan ini?
@@ -171,28 +171,28 @@ Jawab:
 
 - Kurangnya pengawasan proaktif oleh pimpinan lini.
 
-Sumber: 2025-SBY-B02.pdf
+Sumber: **2025-SBY-B02.pdf**
 
 # Contoh Pertanyaan 8:
 Pertanyaan: Berapa nomor Dokumen SOP verifikasi torsi harian wajib?
 Jawab: 
 Nomor dokumen SOP Torsi harian wajib adalah **SOP - PROD - 012**.
 
-Sumber: SOP-PROD-012.pdf
+Sumber: **SOP-PROD-012.pdf**
 
 # Contoh Pertanyaan 9:
 Pertanyaan: Apa tujuan Dokumen SOP verifikasi torsi harian wajib?
 Jawab: 
 Untuk memastikan alat pengencang torsi bekerja akurat agar sambungan baut di titik-titik kritis memenuhi standar teknis, mencegah kegagalan fungsi, dan menjaga keselamatan serta kualitas produk.
 
-Sumber: SOP-PROD-012.pdf
+Sumber: **SOP-PROD-012.pdf**
 
 # Contoh Pertanyaan 10:
 Pertanyaan: Kapan verifikasi torsi wajib dilakukan?
 Jawab: 
 Verifikasi torsi wajib dilakukan setiap awal shift produksi.
 
-Sumber: SOP-PROD-012.pdf
+Sumber: **SOP-PROD-012.pdf**
 
 # Contoh Pertanyaan 11:
 Pertanyaan: Apa saja yang termasuk dalam ruang lingkup SOP verifikasi torsi harian wajib?
@@ -204,14 +204,14 @@ SOP ini berlaku untuk semua alat pengencang torsi di titik kritis pengencangan, 
 - Baut roda
 - Sambungan utama sasis dan bodi
 
-Sumber: SOP-PROD-012.pdf
+Sumber: **SOP-PROD-012.pdf**
 
 # Contoh Pertanyaan 12:
 Pertanyaan: Apa definisi dari “Master Torque Checker”?
 Jawab: 
 Master Torque Checker adalah alat ukur presisi yang sudah dikalibrasi secara berkala dan digunakan sebagai standar acuan untuk memverifikasi alat torsi.
 
-Sumber: SOP-PROD-012.pdf
+Sumber: **SOP-PROD-012.pdf**
 
 # Contoh Pertanyaan 13:
 Pertanyaan: Apa langkah-langkah utama dalam verifikasi harian torsi?”
@@ -228,7 +228,7 @@ Lolos → beri label hijau dan boleh digunakan
 
 Gagal → beri label merah dan jangan digunakan
 
-Sumber: SOP-PROD-012.pdf
+Sumber: **SOP-PROD-012.pdf**
 
 5. Pencatatan: Formulir ditandatangani dan diserahkan ke QC
 
@@ -243,7 +243,7 @@ Jawab:
 
 - Tidak boleh digunakan sebelum diperbaiki/kalibrasi ulang
 
-Sumber: SOP-PROD-012.pdf
+Sumber: **SOP-PROD-012.pdf**
 
 # Contoh Pertanyaan 15:
 Pertanyaan: Siapa saja yang bertanggung jawab dalam pelaksanaan SOP ini?
@@ -254,21 +254,21 @@ Jawab:
 
 - **Supervisor QC**: Melakukan audit acak, mengelola formulir, dan menindaklanjuti alat gagal
 
-Sumber: SOP-PROD-012.pdf
+Sumber: **SOP-PROD-012.pdf**
 
 # Contoh Pertanyaan 16:
 Pertanyaan: Apa tujuan utama dari kampanye “Lapor Cepat, Aman Bersama”?
 Jawaban:
 Mendorong budaya kerja proaktif dan terbuka agar setiap karyawan merasa aman melaporkan potensi masalah sejak dini, guna meningkatkan kualitas, keselamatan, dan kecepatan respons manajemen terhadap insiden.
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 17:
 Pertanyaan: Berapa nomor dokumen Panduan Pelaksanaan Kampanye Budaya?
 Jawaban:
 Nomor dokumen Panduan Pelaksanaan Kampanye Budaya adalah **CAMP - CULT - 25 - 01**
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 18:
 Pertanyaan: Apa filosofi utama dari kampanye "Lapor, Cepat, Aman Bersama"?
@@ -281,7 +281,7 @@ Tiga pilar utama kampanye:
 
 3. Keamanan psikologis karyawan dijamin – tanpa balasan negatif
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 19:
 Pertanyaan: Apa saja saluran pelaporan yang disediakan dalam kampanye "Lapor, Cepat, Aman Bersama"?
@@ -297,7 +297,7 @@ Jawaban:
 
 - Hotline: (021) 555-SAFE (7233)
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 
 # Contoh Pertanyaan 20:
@@ -305,7 +305,7 @@ Pertanyaan: Apa manfaat dari melaporkan masalah kecil seperti baut longgar atau 
 Jawaban:
 Masalah kecil yang dilaporkan hari ini bisa menjadi bencana besar yang berhasil dicegah di masa depan. Setiap laporan adalah informasi berharga.
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 21:
 Pertanyaan: Bagaimana alur tindak lanjut dari laporan yang masuk?
@@ -317,7 +317,7 @@ Jawaban:
 
 3. Pelapor (jika diketahui) menerima feedback dalam waktu maks. 3x24 jam.
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 22:
 Pertanyaan: Apa yang dilakukan pada Fase 1 kampanye ini?
@@ -331,7 +331,7 @@ Jawaban:
 
 - Distribusi kartu saku informasi kampanye ke seluruh karyawan.
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 23:
 Pertanyaan: Apa bentuk penghargaan terhadap karyawan yang aktif melapor?
@@ -341,14 +341,14 @@ Jawaban:
 
 - Laporan mereka dijadikan studi kasus positif dalam Safety Talk mingguan (P5M).
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 24:
 Pertanyaan: Apa jaminan perusahaan terhadap pelapor?
 Jawaban:
 Perusahaan menjamin tidak akan ada tindakan balasan (retaliasi) terhadap siapa pun yang melapor dengan jujur dan niat baik.
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 25:
 Pertanyaan: Bagaimana kampanye ini dijaga keberlanjutannya setelah 6 bulan?
@@ -359,28 +359,28 @@ Jawaban:
 
 - Integrasi materi kampanye ke program orientasi karyawan baru.
 
-Sumber: CAMP-CULT-25-01.pdf
+Sumber: **CAMP-CULT-25-01.pdf**
 
 # Contoh Pertanyaan 26:
 Pertanyaan: Berapa nomor Dokumen SOP Penggunaan Alat Torsi Pintar?
 Jawaban:
 Nomor dokumen SOP Penggunaan Alat Torsi Pintar adalah **SOP - PROD - 013**
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 27:
 Pertanyaan: Apa tujuan utama dari SOP Penggunaan Alat Torsi Pintar ini?
 Jawaban:
 Untuk memastikan alat torsi pintar yang mengalami benturan atau terjatuh tidak digunakan sebelum diverifikasi ulang, demi menjaga akurasi dan keselamatan kerja di titik pengencangan kritis.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 28:
 Pertanyaan: Apa itu alat torsi pintar?
 Jawaban:
 Alat torsi pintar adalah alat pengencang torsi yang dilengkapi dengan sensor jatuh (drop sensor) dan indikator status visual LED untuk mendeteksi dan menandai kondisi alat.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 29:
 Pertanyaan: Apa arti indikator warna pada alat torsi pintar?
@@ -390,7 +390,7 @@ HIJAU: Alat dalam kondisi OK dan siap digunakan.
 
 MERAH: Alat telah mendeteksi benturan dan masuk ke mode terkunci — tidak boleh digunakan.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 30:
 Pertanyaan: Apa tindakan yang harus dilakukan jika alat menunjukkan indikator merah?
@@ -402,14 +402,14 @@ Jawaban:
 
 - Supervisor akan menempelkan label merah dan membawa alat ke stasiun verifikasi.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 31:
 Pertanyaan: Siapa saja yang boleh melakukan reset sensor jatuh pada alat?
 Jawaban:
 Hanya personel yang telah ditunjuk dan dilatih, seperti Supervisor, QC, atau teknisi maintenance. Operator dilarang keras melakukan reset sendiri.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 31:
 Pertanyaan: Apa yang harus dilakukan jika alat torsi terjatuh saat shift berlangsung?
@@ -421,14 +421,14 @@ Jawaban:
 
 - Periksa indikator status alat, meskipun tidak berubah warna, insiden tetap harus dilaporkan.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 31:
 Pertanyaan: Apa yang terjadi jika hasil verifikasi ulang menunjukkan alat masih dalam kondisi baik?
 Jawaban:
 Sensor akan di-reset oleh personel berwenang, indikator kembali menjadi hijau, dan alat bisa digunakan kembali dalam produksi.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 32:
 Pertanyaan: Apa yang terjadi jika hasil verifikasi menunjukkan alat gagal?
@@ -440,7 +440,7 @@ Jawaban:
 
 - Tidak boleh kembali ke lini sebelum diperbaiki.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 33:
 Pertanyaan: Apa tanggung jawab utama operator dalam SOP Penggunaan Alat Torsi Pintar ini?
@@ -452,28 +452,28 @@ Jawaban:
 
 - Melaporkan setiap insiden jatuh atau benturan secepatnya.
 
-Sumber: SOP-PROD-013.pdf
+Sumber: **SOP-PROD-013.pdf**
 
 # Contoh Pertanyaan 34:
 Pertanyaan: Berapa nomor Dokumen SOP Penggunaan Alat Torsi Pintar?
 Jawaban:
 Nomor dokumen Panduan Pelaksanaan Kampanye Budaya adalah **SOP - QC - 008**
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 35:
 Pertanyaan: Apa tujuan utama dari pelaksanaan Layered Process Audit (LPA)?
 Jawaban:
 Untuk memastikan kepatuhan terhadap standar kerja secara konsisten, meningkatkan kehadiran pimpinan di area produksi, mempercepat koreksi penyimpangan kecil sebelum menjadi masalah besar, dan membuka komunikasi dua arah antara pimpinan dan operator.
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 36:
 Pertanyaan: Apa itu Layered Process Audit (LPA)?
 Jawaban:
 LPA adalah sistem audit singkat dan frekuen yang dilakukan oleh berbagai tingkatan manajemen (Team Leader, Supervisor, Manajer) guna memverifikasi apakah proses berjalan sesuai standar.
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 37:
 Pertanyaan: Siapa saja yang melakukan audit LPA dan seberapa sering dilakukan?
@@ -485,14 +485,14 @@ Jawaban:
 
 - Lapis 3 (Manajer): 1 kali seminggu (20–30 menit).
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 38:
 Pertanyaan: Apa yang dimaksud dengan checklist LPA?
 Jawaban:
 Checklist LPA adalah daftar 5–10 pertanyaan "Ya/Tidak" yang berfokus pada elemen-elemen kunci proses, dan bersifat spesifik untuk tiap stasiun kerja.
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 39:
 Pertanyaan: Apa yang harus dilakukan auditor jika menemukan penyimpangan?
@@ -508,7 +508,7 @@ Jawaban:
 
 - Catat semua penyimpangan dan tindak lanjutnya
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 40:
 Pertanyaan: Apa contoh pertanyaan dalam LPA saat audit?
@@ -518,28 +518,28 @@ Jawaban:
 
 - "Bolehkah saya lihat bagaimana Anda memeriksa kualitas hasil las?"
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 41:
 Pertanyaan: Bagaimana hasil audit LPA disampaikan dan ditindaklanjuti?
 Jawaban:
 Checklist dikembalikan ke Papan Manajemen Visual LPA, lalu dipasang stiker indikator (hijau/kuning/merah). Data checklist direkap mingguan oleh Supervisor Kualitas dan dibahas dalam rapat mingguan untuk melihat tren penyimpangan.
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 42:
 Pertanyaan: Apa arti dari tindakan korektif langsung (on-the-spot corrective action)?
 Jawaban:
 Tindakan perbaikan yang dilakukan langsung di lapangan saat audit, seperti membantu mengambil APD atau memperbaiki posisi komponen agar sesuai instruksi kerja.
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 
 # Contoh Pertanyaan 43:
 Pertanyaan: Apa yang dilakukan jika masalah yang ditemukan bersifat sistemik?
 Jawaban:
 Masalah sistemik seperti alat rusak atau instruksi kerja tidak jelas harus dieskalasikan ke level manajemen yang sesuai untuk penanganan lebih lanjut.
 
-Sumber: SOP-QC-008.pdf
+Sumber: **SOP-QC-008.pdf**
 """
 )
 
